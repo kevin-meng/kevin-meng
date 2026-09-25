@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" width="100%" alt="Kevin Meng — AI Agents, Risk Intelligence, Knowledge Infrastructure and Product Engineering" />
+<img src="./assets/profile-hero.svg" width="100%" alt="AI-native systems for risk, knowledge and real-world workflows" />
 
 <br/>
 
-I build **AI-native systems** at the intersection of data, decision-making, knowledge, and product engineering.
-
-I bring **10+ years of hands-on experience across financial risk, data mining, big-data engineering, and full-stack development**. That background shapes how I approach AI today: not as a layer of prompts, but as a system that has to work under real constraints — where data shifts, evaluation matters, memory matters, and products still need to fit human workflows.
+I bring **10+ years of hands-on experience across financial risk, data mining, big-data engineering, and full-stack development**. That background shapes how I approach AI today: with an emphasis on real constraints, measurable outcomes, and systems that fit human workflows.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -16,8 +14,6 @@ I bring **10+ years of hands-on experience across financial risk, data mining, b
   <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=lightgbm&logoColor=white" alt="LightGBM" />
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
 </p>
-
-[**🔭 Explore Projects**](https://github.com/kevin-meng?tab=repositories)
 
 </div>
 
