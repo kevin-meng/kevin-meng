@@ -45,7 +45,6 @@ I care about the layer **after the demo**: memory, evaluation, data quality, dec
   <img src="./assets/project-agent.svg" width="100%" alt="ZeroClaw Hindsight" />
 </a>
 
-<p align="right"><a href="https://github.com/kevin-meng/zeroclaw-hindsight-v2"><strong>View project →</strong></a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -54,7 +53,6 @@ I care about the layer **after the demo**: memory, evaluation, data quality, dec
   <img src="./assets/project-graph.svg" width="100%" alt="Financial Knowledge Graph" />
 </a>
 
-<p align="right"><a href="https://github.com/kevin-meng/financial_stock_knowledge_graph"><strong>View project →</strong></a></p>
 
 </td>
 </tr>
@@ -65,7 +63,6 @@ I care about the layer **after the demo**: memory, evaluation, data quality, dec
   <img src="./assets/project-product.svg" width="100%" alt="Toastmaster Timer Tools" />
 </a>
 
-<p align="right"><a href="https://github.com/kevin-meng/toastmaster_tools"><strong>View project →</strong></a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -74,7 +71,6 @@ I care about the layer **after the demo**: memory, evaluation, data quality, dec
   <img src="./assets/project-tooling.svg" width="100%" alt="HuggingfaceDownloadShare" />
 </a>
 
-<p align="right"><a href="https://github.com/kevin-meng/HuggingfaceDownloadShare"><strong>View project →</strong></a></p>
 
 </td>
 </tr>
