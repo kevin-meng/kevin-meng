@@ -6,7 +6,7 @@
 
 I build **AI-native systems** at the intersection of data, decision-making, knowledge, and product engineering.
 
-My background is in **risk modeling and decision systems**. Today, I’m especially interested in AI systems that have to work under real constraints — where data shifts, evaluation matters, memory matters, and products still need to fit human workflows.
+I bring **10+ years of hands-on experience across financial risk, data mining, big-data engineering, and full-stack development**. That background shapes how I approach AI today: not as a layer of prompts, but as a system that has to work under real constraints — where data shifts, evaluation matters, memory matters, and products still need to fit human workflows.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
