@@ -4,7 +4,9 @@
 
 <br/>
 
-I build **AI-native systems** that connect data, domain knowledge, decision-making, and real-world workflows.
+I build **AI-native systems** at the intersection of data, decision-making, knowledge, and product engineering.
+
+My background is in **risk modeling and decision systems**. Today, I’m especially interested in AI systems that have to work under real constraints — where data shifts, evaluation matters, memory matters, and products still need to fit human workflows.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -29,49 +31,6 @@ I care about the layer **after the demo**: memory, evaluation, data quality, dec
 
 ---
 
-## 🚀 Featured Open-source Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/kevin-meng/zeroclaw-hindsight-v2">
-  <img src="./assets/project-agent.svg" width="100%" alt="ZeroClaw Hindsight" />
-</a>
-
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/kevin-meng/financial_stock_knowledge_graph">
-  <img src="./assets/project-graph.svg" width="100%" alt="Financial Knowledge Graph" />
-</a>
-
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/kevin-meng/toastmaster_tools">
-  <img src="./assets/project-product.svg" width="100%" alt="Toastmaster Timer Tools" />
-</a>
-
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/kevin-meng/HuggingfaceDownloadShare">
-  <img src="./assets/project-tooling.svg" width="100%" alt="HuggingfaceDownloadShare" />
-</a>
-
-
-</td>
-</tr>
-</table>
-
----
-
 ## ⚙️ How I Work
 
 <div align="center">
@@ -84,7 +43,6 @@ I care about the layer **after the demo**: memory, evaluation, data quality, dec
 
 | Principle | What it means |
 | --- | --- |
-| 🎯 **Useful > impressive** | Solve a real workflow before polishing a demo |
-| 📐 **Evaluation > intuition** | Define what “better” means before adding complexity |
-| 🧠 **Systems > prompts** | Memory, tools, data and feedback loops matter |
-| 🌱 **Compounding > disposable** | Build assets that become more valuable over time |
+| 🎯 **Real problem first** | Start from a workflow or decision that genuinely matters |
+| 📐 **Evaluate before adding complexity** | Define evidence and success criteria before making the system smarter |
+| 🧠 **AI for judgment, software for facts** | Keep deterministic logic deterministic; use AI where reasoning and language add value |
