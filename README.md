@@ -4,19 +4,15 @@
 
 <br/>
 
-### 👋 Hi, I'm Kevin
-
 I build **AI-native systems** that connect data, domain knowledge, decision-making, and real-world workflows.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat-square&logo=lightgbm&logoColor=white" alt="LightGBM" />
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
-  <img src="https://img.shields.io/badge/LLM_Agents-111827?style=flat-square&logo=openai&logoColor=white" alt="LLM Agents" />
 </p>
 
 [**🔭 Explore Projects**](https://github.com/kevin-meng?tab=repositories) · [**🌐 Personal Website**](https://kevin-meng.github.io)
@@ -30,8 +26,6 @@ I build **AI-native systems** that connect data, domain knowledge, decision-maki
 <img src="./assets/focus-map.svg" width="100%" alt="Kevin Meng capability map" />
 
 I care about the layer **after the demo**: memory, evaluation, data quality, decision logic, workflow design, and the engineering required to make AI useful in practice.
-
-> 💡 **Useful > impressive. Systems > prompts. Evidence > intuition.**
 
 ---
 
@@ -71,33 +65,6 @@ I care about the layer **after the demo**: memory, evaluation, data quality, dec
   <img src="./assets/project-tooling.svg" width="100%" alt="HuggingfaceDownloadShare" />
 </a>
 
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Current Focus
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🤖 Agent Systems
-Long-term memory, tools, orchestration, reliable execution, and evaluation.
-
-</td>
-<td width="33%" valign="top">
-
-### 📈 Risk Intelligence
-Drift, OOT stability, ranking, model comparison, and evidence-driven decisions.
-
-</td>
-<td width="33%" valign="top">
-
-### 🧩 Knowledge Systems
-Turning scattered data and experience into structured, connected, reusable intelligence.
 
 </td>
 </tr>
