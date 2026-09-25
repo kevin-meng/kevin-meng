@@ -15,7 +15,7 @@ I build **AI-native systems** that connect data, domain knowledge, decision-maki
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j" />
 </p>
 
-[**🔭 Explore Projects**](https://github.com/kevin-meng?tab=repositories) · [**🌐 Personal Website**](https://kevin-meng.github.io)
+[**🔭 Explore Projects**](https://github.com/kevin-meng?tab=repositories)
 
 </div>
 
@@ -72,18 +72,6 @@ I care about the layer **after the demo**: memory, evaluation, data quality, dec
 
 ---
 
-## 🌱 Long-term Thesis · OpenHI
-
-**Open Human Intelligence** is a direction I care about: turning individual and collective knowledge, experience, and practice into intelligence that can be **structured, connected, reused, and compounded**.
-
-<div align="center">
-
-### knowledge → structure → connection → reuse → intelligence
-
-</div>
-
----
-
 ## ⚙️ How I Work
 
 <div align="center">
@@ -100,13 +88,3 @@ I care about the layer **after the demo**: memory, evaluation, data quality, dec
 | 📐 **Evaluation > intuition** | Define what “better” means before adding complexity |
 | 🧠 **Systems > prompts** | Memory, tools, data and feedback loops matter |
 | 🌱 **Compounding > disposable** | Build assets that become more valuable over time |
-
----
-
-<div align="center">
-
-### ✨ Build useful systems. Connect knowledge. Let intelligence compound.
-
-<sub>AI Agents · Risk Intelligence · Knowledge Infrastructure · Product Engineering</sub>
-
-</div>
