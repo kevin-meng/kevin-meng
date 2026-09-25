@@ -45,11 +45,7 @@ I care about the layer **after the demo**: memory, evaluation, data quality, dec
   <img src="./assets/project-agent.svg" width="100%" alt="ZeroClaw Hindsight" />
 </a>
 
-### 🧠 [ZeroClaw × Hindsight](https://github.com/kevin-meng/zeroclaw-hindsight-v2)
-
-Persistent long-term memory for AI agent runtimes, with explicit **retain / recall / reflect** operations.
-
-`Rust` `Agents` `Memory` `Knowledge Graph`
+<p align="right"><a href="https://github.com/kevin-meng/zeroclaw-hindsight-v2"><strong>View project →</strong></a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -58,11 +54,7 @@ Persistent long-term memory for AI agent runtimes, with explicit **retain / reca
   <img src="./assets/project-graph.svg" width="100%" alt="Financial Knowledge Graph" />
 </a>
 
-### 🕸️ [Financial Knowledge Graph](https://github.com/kevin-meng/financial_stock_knowledge_graph)
-
-An end-to-end path from financial data extraction to graph modeling, Neo4j applications, and incremental updates.
-
-`Python` `Neo4j` `FinTech` `Knowledge Graph`
+<p align="right"><a href="https://github.com/kevin-meng/financial_stock_knowledge_graph"><strong>View project →</strong></a></p>
 
 </td>
 </tr>
@@ -73,11 +65,7 @@ An end-to-end path from financial data extraction to graph modeling, Neo4j appli
   <img src="./assets/project-product.svg" width="100%" alt="Toastmaster Timer Tools" />
 </a>
 
-### 🛠️ [Toastmaster Timer Tools](https://github.com/kevin-meng/toastmaster_tools)
-
-A real-world meeting role turned into a structured, AI-assisted workflow with human review.
-
-`React` `TypeScript` `FastAPI` `PostgreSQL`
+<p align="right"><a href="https://github.com/kevin-meng/toastmaster_tools"><strong>View project →</strong></a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -86,11 +74,7 @@ A real-world meeting role turned into a structured, AI-assisted workflow with hu
   <img src="./assets/project-tooling.svg" width="100%" alt="HuggingfaceDownloadShare" />
 </a>
 
-### ⚡ [HuggingfaceDownloadShare](https://github.com/kevin-meng/HuggingfaceDownloadShare)
-
-Practical AI infrastructure tooling for model acquisition and sharing under real network constraints.
-
-`Python` `Hugging Face` `AI Tooling`
+<p align="right"><a href="https://github.com/kevin-meng/HuggingfaceDownloadShare"><strong>View project →</strong></a></p>
 
 </td>
 </tr>
