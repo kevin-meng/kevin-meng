@@ -1,0 +1,38 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="430"><stop stop-color="#f8fafc"/><stop offset="1" stop-color="#eef2ff"/></linearGradient>
+  <linearGradient id="core" x1="430" y1="140" x2="770" y2="290"><stop stop-color="#111827"/><stop offset="1" stop-color="#312e81"/></linearGradient>
+</defs>
+<rect width="1200" height="430" rx="24" fill="url(#panel)"/>
+<g font-family="Inter,Noto Sans CJK SC,Microsoft YaHei,PingFang SC,Arial,sans-serif">
+<path d="M355 110 C455 110 460 175 515 188" stroke="#06b6d4" stroke-width="2.5" fill="none" opacity=".55"/>
+<path d="M845 110 C745 110 740 175 685 188" stroke="#8b5cf6" stroke-width="2.5" fill="none" opacity=".55"/>
+<path d="M355 320 C455 320 460 255 515 242" stroke="#22c55e" stroke-width="2.5" fill="none" opacity=".55"/>
+<path d="M845 320 C745 320 740 255 685 242" stroke="#f59e0b" stroke-width="2.5" fill="none" opacity=".55"/>
+
+<rect x="75" y="48" width="300" height="124" rx="20" fill="#ecfeff" stroke="#67e8f9"/>
+<text x="105" y="86" fill="#0e7490" font-size="18" font-weight="700">🧠 AI 智能体</text>
+<text x="105" y="115" fill="#334155" font-size="15">记忆 · 工具 · 编排</text>
+<text x="105" y="139" fill="#64748b" font-size="14">从一次性提示词到持续运行系统</text>
+
+<rect x="825" y="48" width="300" height="124" rx="20" fill="#f5f3ff" stroke="#c4b5fd"/>
+<text x="855" y="86" fill="#6d28d9" font-size="18" font-weight="700">📊 风控智能</text>
+<text x="855" y="115" fill="#334155" font-size="15">评估 · 漂移 · 排序</text>
+<text x="855" y="139" fill="#64748b" font-size="14">从模型指标到业务决策</text>
+
+<rect x="75" y="258" width="300" height="124" rx="20" fill="#f0fdf4" stroke="#86efac"/>
+<text x="105" y="296" fill="#15803d" font-size="18" font-weight="700">🕸️ 知识基础设施</text>
+<text x="105" y="325" fill="#334155" font-size="15">图谱 · 检索 · 结构化记忆</text>
+<text x="105" y="349" fill="#64748b" font-size="14">从零散数据到可复用知识</text>
+
+<rect x="825" y="258" width="300" height="124" rx="20" fill="#fffbeb" stroke="#fcd34d"/>
+<text x="855" y="296" fill="#b45309" font-size="18" font-weight="700">🛠️ 产品工程</text>
+<text x="855" y="325" fill="#334155" font-size="15">工作流 · UX · 交付</text>
+<text x="855" y="349" fill="#64748b" font-size="14">从重复工作到真正可用产品</text>
+
+<rect x="430" y="147" width="340" height="136" rx="26" fill="url(#core)"/>
+<text x="600" y="196" text-anchor="middle" fill="#fff" font-size="18" font-weight="700">构建真正有用的系统</text>
+<text x="600" y="228" text-anchor="middle" fill="#c7d2fe" font-size="15">数据 + 领域 + AI + 工程</text>
+<text x="600" y="255" text-anchor="middle" fill="#94a3b8" font-size="14">真实问题 → 可复用能力</text>
+</g>
+</svg>
