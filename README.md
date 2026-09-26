@@ -1,3 +1,7 @@
+<p align="right">
+  <strong>English</strong> · <a href="./README_CN.md">中文</a>
+</p>
+
 <div align="center">
 
 <img src="./assets/profile-hero.svg" width="100%" alt="AI-native systems for risk, knowledge and real-world workflows" />
